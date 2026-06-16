@@ -28,6 +28,9 @@ Java Full Stack Developer & Manual Tester<br>☕ Java | Spring Boot | MySQL<br>�
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-%23007ACC.svg?style=plastic&logo=testing-library&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=plastic&logo=junit5&logoColor=white)
+![JPA/Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=plastic&logo=hibernate&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=plastic&logo=springsecurity&logoColor=white)
+
 
 
 # 📊 GitHub Stats:
