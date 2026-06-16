@@ -27,6 +27,8 @@ Java Full Stack Developer & Manual Tester<br>☕ Java | Spring Boot | MySQL<br>�
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-%23007ACC.svg?style=plastic&logo=testing-library&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=plastic&logo=junit5&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sangeethacn22-hue&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
