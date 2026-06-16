@@ -11,6 +11,8 @@ Java Full Stack Developer & Manual Tester<br>☕ Java | Spring Boot | MySQL<br>�
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=plastic&logo=java&logoColor=white)
+![Collections](https://img.shields.io/badge/Java%20Collections-FF6F00.svg?style=plastic&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
