@@ -11,8 +11,6 @@ Java Full Stack Developer & Manual Tester<br>â˜• Java | Spring Boot | MySQL<br>ð
 
 # ðŸ’» Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=plastic&logo=java&logoColor=white)
-![Collections](https://img.shields.io/badge/Java%20Collections-FF6F00.svg?style=plastic&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
@@ -22,7 +20,7 @@ Java Full Stack Developer & Manual Tester<br>â˜• Java | Spring Boot | MySQL<br>ð
 ![RESTful API](https://img.shields.io/badge/RESTful%20API-009688.svg?style=plastic&logo=fastapi&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=plastic&logo=apachemaven&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-FFAB00.svg?style=plastic&logo=mockito&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
