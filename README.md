@@ -30,6 +30,8 @@ Java Full Stack Developer & Manual Tester<br>â˜• Java | Spring Boot | MySQL<br>ð
 ![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=plastic&logo=junit5&logoColor=white)
 ![JPA/Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=plastic&logo=hibernate&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=plastic&logo=springsecurity&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-009688.svg?style=plastic&logo=fastapi&logoColor=white)
+
 
 
 
